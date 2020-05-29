@@ -7,7 +7,7 @@
       </ContentProtection>
       <Representation id="0" bandwidth="65996" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="16000">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"/>
-        <BaseURL>audio_58_0_62.mp4</BaseURL>
+        <BaseURL>https://github.com/CDCOSINE/test/blob/master/audio_58_0_62.mp4</BaseURL>
         <SegmentBase indexRange="914-4905" timescale="16000">
           <Initialization range="0-913"/>
         </SegmentBase>
@@ -19,7 +19,7 @@
         <cenc:pssh>AAAAUnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADIiKnZkb2NpcGhlcjoyODM2YWZiYjA3OWQ0MTJhYTc1NzMxYjFkNGZhN2FlZUjj3JWbBg==</cenc:pssh>
       </ContentProtection>
       <Representation id="1" bandwidth="93801" codecs="avc1.64001f" mimeType="video/mp4" sar="1:1">
-        <BaseURL>video_2333_1080_88.mp4</BaseURL>
+        <BaseURL>https://github.com/CDCOSINE/test/blob/master/video_2333_1080_88.mp4</BaseURL>
         <SegmentBase indexRange="980-3423" timescale="16000">
           <Initialization range="0-979"/>
         </SegmentBase>
